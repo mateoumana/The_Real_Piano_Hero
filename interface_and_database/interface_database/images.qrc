@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>piano_hero.jpeg</file>
+        <file>piano_flame.jpg</file>
+        <file>flamas.jpg</file>
+        <file>piano_flame2.jpg</file>
+    </qresource>
+</RCC>
